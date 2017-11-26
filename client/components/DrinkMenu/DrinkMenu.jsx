@@ -1,6 +1,7 @@
 import React from 'react';
 import SingleDrink from './SingleDrink.jsx';
 import drink_inventory from '../../data/drink_inventory.json';
+import style from './style.css';
 const stamp = console.log;
 
 export default class DrinkMenu extends React.Component {
@@ -10,7 +11,7 @@ export default class DrinkMenu extends React.Component {
     )
 
     return (
-      <div className={`drink-menu ${!this.props.otvoren && 'hide'}`}>
+      <div className={`drink-menu`}>
         {renderDrinks}
         {stamp(renderDrinks)}
       </div>
