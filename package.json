@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server",
-    "lint:js": "./node_modules/.bin/eslint ./"
+    "lint:js": " eslint **/*.js*"
   },
   "author": "Zeljko",
   "license": "MIT",
