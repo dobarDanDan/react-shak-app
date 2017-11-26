@@ -1,0 +1,72 @@
+[
+	{
+	"name": "Beer",
+	"id": 1,
+	"price": 5,
+	"alcohol": true,
+	"image": "client/data/images/beer_bottle_v2.svg"
+	},
+	{
+	"name": "Lemonade",
+	"id": 2,
+	"price": 3,
+	"alcohol": false,
+	"image": "client/data/images/lemonade.svg"
+	},	
+	{
+	"name": "Champagne",
+	"id": 3,
+	"price": 50,
+	"alcohol": true,
+	"image": "client/data/images/champagne.png"
+	},
+	{
+	"name": "Coca Cola",
+	"id": 4,
+	"price": 4,
+	"alcohol": false,
+	"image": "client/data/images/coca_cola.svg"
+	},
+	{
+	"name": "Cocktail",
+	"id": 5,
+	"price": 15,
+	"alcohol": true,
+	"image": "client/data/images/cocktail_shaker.svg"
+	},	
+	{
+	"name": "Coffee",
+	"id": 6,
+	"price": 3,
+	"alcohol": false,
+	"image": "client/data/images/coffee.svg"
+	},	
+	{
+	"name": "lemonade",
+	"id": 7,
+	"price": 2.99,
+	"alcohol": false,
+	"image": "client/data/images/lemonade.svg"
+	},
+	{
+	"name": "Mineral Water Knjaz Milos",
+	"id": 8,
+	"price": 7.99,
+	"alcohol": false,
+	"image": "client/data/images/mineral_water.svg"
+	},
+	{
+	"name": "Herbal Tee",
+	"id": 9,
+	"price": 1.99,
+	"alcohol": false,
+	"image": "client/data/images/tee.png"
+	},
+	{
+	"name": "Wine",
+	"id": 10,
+	"price": 7.50,
+	"alcohol": true,
+	"image": "client/data/images/wine_bottle.svg"
+	}
+]
